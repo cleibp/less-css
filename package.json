@@ -1,0 +1,26 @@
+{
+  "name": "less-css",
+  "version": "1.0.0",
+  "description": "less",
+  "main": "style.less",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lessc -w style.less style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleibp/less-css.git"
+  },
+  "keywords": [
+    "less"
+  ],
+  "author": "Cleiton Paiva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleibp/less-css/issues"
+  },
+  "homepage": "https://github.com/cleibp/less-css#readme",
+  "devDependencies": {
+    "less": "^4.2.0"
+  }
+}
